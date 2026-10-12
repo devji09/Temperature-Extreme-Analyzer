@@ -1,0 +1,6 @@
+{
+  "name": "ThermoScope — Temperature Extremes Analyzer",
+  "description": "Educational algorithm visualization and temperature analysis tool finding minimum and maximum temperatures using a recursive Divide and Conquer approach compared against a linear baseline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
